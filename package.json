@@ -1,11 +1,16 @@
 {
-  "name": "filesystem",
+  "name": "@tukras/filesystem",
   "version": "0.0.2",
+  "private": false,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "/dist"
   ],
+  "repository": "git://github.com/turkas/filesystem.git",
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "scripts": {
     "test": "jest",

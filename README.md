@@ -17,13 +17,13 @@ Filesystem can be installed using npm or yarn.
 ##### yarn
 
 ```yarn
-yarn add filesystem
+yarn add @tukras/filesystem
 ```
 
 ##### npm
 
 ```npm
-npm install filesystem
+npm install @tukras/filesystem
 ```
 
 #### General usage
